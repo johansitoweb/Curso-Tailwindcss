@@ -1,2 +1,3 @@
 # Aprende Tailwindcss desde cero con johansitoweb.
-![image](https://github.com/user-attachments/assets/7a6e7602-2447-4001-9532-93ed958981ee)
+![image](https://github.com/user-attachments/assets/b6d4bb6d-017e-4476-afa7-67e6265599bc)
+
